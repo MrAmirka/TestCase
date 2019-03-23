@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/moon.jpg</file>
+        <file>images/saturn.jpg</file>
+        <file>main.cpp</file>
+        <file>UploadScreen.qml</file>
+        <file>fonts/Engravers Gothic BT.ttf</file>
+        <file>Parallax.js</file>
+        <file>SecondScreen.qml</file>
+        <file>images/loading.png</file>
+    </qresource>
+</RCC>
